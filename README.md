@@ -3,7 +3,7 @@
 *By: Abby Jameson*
 
 ## Executive Summary
-My project analyzes the issue of vaping in North America and how it affects health, compares e-cigarettes to cigarettes, its long-term effects, and its impact on youth. The analysis is based off of datasets provided by the Centers for Disease Control and Prevention and the Government of Canada. The goal of my project is to find patterns and trends within these topics, compare and contrast data, and give an understanding of why vaping is such a large and up-and-coming issue. Through analysis and visualizations, as well as meeting the goal for this project, it will give insight into the importance of knowing and understanding this issue.
+This study analyzes the issue of vaping in North America and how it affects health, compares e-cigarettes to cigarettes, its long-term effects, and its impact on youth. The analysis is based on datasets provided by the Centers for Disease Control and Prevention and the Government of Canada. The goal is to find patterns and trends within these topics, compare and contrast data, and give an understanding of why vaping is such a large and up-and-coming issue. Through analysis and visualizations, as well as meeting the goal for this project, it will give insight into the importance of knowing and understanding this issue.
 
 [Read detailed background information here](Background.md)
 
