@@ -3,7 +3,7 @@
 *By: Abby Jameson*
 
 ## Executive Summary
-This study analyzes the issue of vaping in North America and how it affects health, comparing e-cigarettes to cigarettes, its long-term effects, and its impact on youth. The analysis is based on datasets provided by the Centers for Disease Control and Prevention and the Government of Canada. The goal is to find patterns and trends within these topics, compare and contrast data, and give an understanding of why vaping is such a large and up-and-coming issue. Through analysis and visualizations, as well as meeting the goal for this project, it will give insight into the importance of knowing and understanding this issue.
+This study analyzes the issue of vaping in Canada and how it is used by students within the country. The analysis is based on the dataset provided by the Government of Canada. The goal is to find patterns and trends within these topics, compare and contrast data, and give an understanding of if and how vaping is such a large and up-and-coming issue with students. Through analysis and visualizations, as well as meeting the goal for this project, it will give insight into the importance of knowing and understanding this issue.
 
 [Read detailed background information here](Background.md)
 
@@ -13,29 +13,24 @@ This study analyzes the issue of vaping in North America and how it affects heal
 
 ### 1.	Student Vaping Prevalence Rate
 
-* Measured through Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) data for grades 7-12
-* Tracks percentage of students who report vaping 
-* Can be segmented by grade level and compared year over year (2014-2022)
+Measured through Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS) data for grades 7-12, this KPI tracks the percentage of students who report vaping usage. This can be segmented by grade level and compared by reasons for currently vaping and continuing to vape, and where they acquire vapes to understand if any data stands out or is important to note.
 
-### 2.	Youth Risk Perception Index
+### 2.	Rate of future usage perception through the gender demographic
    
-* Using Canadian Tobacco and Nicotine Survey (NYTS) data on beliefs and attitudes
-* Measures how students perceive the health risks of vaping
-* Tracks changes in risk perception over time
-* Can be compared with actual usage rates
+Measured through CSTADS data for gender (*Male, Female, Unspecified*), this KPI tracks the percentage of if the students will vape within the next year. This allows for comparison between gender to see if there is a difference.
 
-### 3.	Demographic Usage Patterns
 
-* Using Canadian Tobacco and Nicotine Survey (CTNS) data for ages 15 and older
-* Measures prevalence rates across different age groups
-* Allows comparison between youth (15-24) and adult usage patterns
+### 3.	Geographic Usage Patterns
 
-### 4.	Vaping vs Cigarette Usage Rate
-* Using CSTADS data to track the correlation between vaping and smoking and compare
-* Measures relationship between cigarettes and vaping among students
-* Can be segmented by age
+Measured through CTSADS data for Provinces, this KPI measures the amount of students within each province on why they vape or will not be vaping in future. This allows for comparison of provinces to visualize any differences.
 
-### 5.	Health Impact Indicator
-* Using CSTADS 2021-2022 data on self-reported physical health
-* Tracks correlation between vaping frequency and reported health issues
-* Can be broken down by: Physical health complaints, Energy levels, Sleep patterns, General wellbeing scores
+
+### 4.	Flavor prevalence
+
+Using CTSADS data on flavors, this KPI can track favored flavors and flavor importance with students. It can be segmented by flavor, and visualized to understand if students favor flavors, considering Canada's ban on flavored vapes.
+
+
+### 5.	Rural and Urban usage rates
+
+Using CSTADS data, this KPI tracks the percentage of students within rural and urban areas. It can be segmented by intentions on whether students will vape in the next year to visualize any comparison between the two.
+
