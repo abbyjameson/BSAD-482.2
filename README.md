@@ -7,6 +7,10 @@ This study analyzes the issue of vaping in Canada and how it is used by students
 
 [Read detailed background information here](Background.md)
 
+[Read Wrangling activities here](Wrangling.md)
+
+[Find Data visualization and exploration here]
+
 ## Key Performance Indicators
 
 <!-- consider adding a value statement rather than how you would use it (e.g the bullets you have now are technical and not needed once you complete the visuals.. instead it is better to highlight "SO WHAT" types of information - it shows more sophistication and long term planning ).  E.g. understanding student vaping prevalence rate helps inform policy regarding risk mitigation, etc...-->
