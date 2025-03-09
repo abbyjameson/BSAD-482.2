@@ -9,7 +9,7 @@ This study analyzes the issue of vaping in Canada and how it is used by students
 
 [Read Wrangling activities here](Wrangling.md)
 
-[Find Data visualization and exploration here]
+[Find Data visualization and exploration here](dataexplore.md)
 
 ## Key Performance Indicators
 
