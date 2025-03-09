@@ -92,6 +92,21 @@ In **3.1** the most prevelant reason for vaping for all provinces was 'I am addi
 
 ### Analysis of 4.1
 
-*Visualization 4.1* shows the percentage of students top 5 flavors
+*Visualization 4.1* shows the percentage of students top 5 vape flavors
+
+**4.1** is a pie chart that shows the highest percentage of students prefer 'Fruit' flavoured vapes, totalling to 53.61%. Other notable flavors were 'No usual flavor' with 20.04% of students, and 'Not stated' with 10.92% of students. Any percentage of students below 5% for flavors were not included as the focus is to be on the largest percentages.
+
+## Visualizations and their Analysis in relation to KPI #5
+
+### Visualization 5.1
+
+#### 5.1
+![1B75F45A-2A8D-4CFB-89A6-4841960A76CB](https://github.com/user-attachments/assets/01609a5f-0f31-44bd-b6cb-e2ebc5acd274)
+
+### Analysis of 5.1 
+
+*Visualization 5.1* compares students answers to 'Will you vape in the next year' by Rural and Urban areas through percentages.
+
+Table **5.1** gives insight that the percentage difference for answers is not a massive difference, but still a difference. Rural seems to lean more toward vaping than urban, showing answers for 'Definetely not' as 56.56% for rural and 61.00% for urban. As well, answers for 'Definetely yes' and 'Probably yes' for rural were a bit higher percentage compared to urban.
 
 
