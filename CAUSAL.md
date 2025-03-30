@@ -6,6 +6,8 @@
 
 The heatmap in Figure 1.1 below was created to show the correlation of the variables that influence the different KPI's that were created. Correlation measures the statistical relationships, and indicates how strong they are related and if they tend to change eachother. The heatmap was created by using a CSV version of the CSTADS 2021-22 dataset, providing it in Python, converting the categorical columns into numerical using Pandas, and making a heatmap using Pearson. 
 
+[Reminder of KPI's](README.md)
+
 In Figure 1.1, a color scale is provided to indicate the strength and direction of the correlations. Green on the color scale means there is a positive correlation, so as one variable increases the other will increase too. The darker the green, the stronger positive correlation it has. Red on the color scale means there is a negative correlation, so when one increases the other decreases. As well, the darker the red means stonger negative correlation. Also, white means that there is little to no correlation (close to zero). The value of 1 on the heatmap means there is perfect correlation, which is shown on the green diagonal line going from top left to bottom right. This makes sense as it represents the correlation of each variable in the dataset with itself, so it will always be 1.
 
 #### Strong Positive Correlations
