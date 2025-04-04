@@ -35,6 +35,10 @@ Figure 1.2 was created by providing Python with the CSV version of the CSTADS 20
 
 To start, "SEQID" is shown as an outlier in Figure 1.2, as it is only the student ID number, and not a variable to be factored. The overall potential confounders are shown to be "Province(PROVID)", "GRADE", and "Gender(DVGENDER)", with smaller underlying potential confounders "Rural or Urban (DVURBAN)" and "Race/Ethnicity(DVDESCRIBE)". These potential confounders all have one thing in common, they are all demographics. This proves that demographics do have influence on the vaping variables, which directly support the KPI's. 
 
+Regarding inferences from the Causal Model, starting with the significantly strong causal relationship of 1.08 between "Will you use in the next 12 mo? (VAP_010)" and "Main reason for trying the first time (VAP_030)". An inference can be made that the intent to continue to vape after trying the first time, could be factors such as *stress* or *social pressure*. Addiction would not be a factor in this relationship as it is intent before the fact, not after, which means they would not have an addiction yet. 
+
+Another relationship noted was the causal relationships with "Main reason for currently using (VAP_040)", considering "Will you use in the next 12 mo? (VAP_010)", "Which flavor do you vape most often? (VAP_020)", and "In the last 12 months, how many times have you stopped (VAP_060)". The inference that can be made from these causal relationships affecting "Main reason for currently using (VAP_040)" is that the *addiction* to vaping could be a large factor influencing this. Addiction has been determined because if the students were either struggling with stopping, enjoying the flavors, or having the assumption they will continue vaping,(which are all in relation to addiction) it would make sense as to why they are main reasons they are currently vaping. To note, other factors that were mentioned such as stress and social pressure could also be other influences as well.
+
 ### Figure 1.2: Causal Model
 ![D25F8B6D-D58A-497E-9E01-23CBA7AF90B7](https://github.com/user-attachments/assets/fac38b46-019e-4872-b03a-ddf3b32412e0)
 
